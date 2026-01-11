@@ -1,4 +1,4 @@
-import { RACE, CLASS } from '../types/Enums.js';
+import { RACE, CLASS } from '../types/EnumsCharacter.js';
 import type { Stats } from './Stats.js';
 
 export interface Character {
